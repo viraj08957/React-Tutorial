@@ -1,8 +1,9 @@
 import CustomButton from "./CustomButton"
+import Hello from "./Hello"
 
 function App() {
   return (
-    <CustomButton></CustomButton>
+    <Hello></Hello>
   )
 
 
